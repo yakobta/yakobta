@@ -64,8 +64,8 @@ My primary technical interests include AI engineering, full-stack development, b
 ---
  Featured Projects
 
-EthioMind
-AI-Powered Educational Platform
+##EthioMind
+**AI-Powered Educational Platform**
 
 An educational technology platform designed to make structured and personalized learning more accessible.
 
