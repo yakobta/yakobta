@@ -14,7 +14,7 @@ Building software, learning new technologies, and solving real-world problems.
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:172554,60:312e81,100:06b6d4&height=220&section=header&text=YAKOB%20TARIKU&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Backend%20Development%20%7C%20AI%20Engineering&descSize=15&descAlignY=58&animation=fadeIn&stroke=06b6d4&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:172554,60:312e81,100:06b6d4&height=220&section=header&text=YAKOB%20TARIKU&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Backend%20Development%20%7C%20AI%20Eager&descSize=15&descAlignY=58&animation=fadeIn&stroke=06b6d4&strokeWidth=1"
   />
 </div>
 
