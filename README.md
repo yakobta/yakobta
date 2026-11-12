@@ -45,14 +45,6 @@ I enjoy learning programming, building applications, and understanding how softw
 - **Python:** Programming fundamentals, problem-solving, and practical applications.
 - **SQL:** Database design, queries, relationships, and PostgreSQL.
 
-## GitHub Contributions
-
-<div align="center">
-
-<img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contributions"/>
-
-</div>
-
 ## Connect With Me
 
 <div align="center">
