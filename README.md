@@ -51,7 +51,6 @@ I enjoy learning programming, building applications, and understanding how softw
 
 <a href="https://github.com/yakobta">GitHub</a> ·
 <a href="https://linkedin.com/in/yakobta">LinkedIn</a> ·
-<a href="https://youtube.com/@codewithjack-y9u">YouTube</a>
  
 **Learn. Build. Improve.**
 
