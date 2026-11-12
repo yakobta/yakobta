@@ -63,37 +63,7 @@ My primary interests include AI engineering, full-stack development, backend sys
 </div>
 
 ---
-
-## 03 / FEATURED PROJECTS
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e3a8a,100:06b6d4&height=110&text=ETHIOMIND&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
-
-### ETHIOMIND
-**AI-POWERED EDUCATIONAL PLATFORM**
-
-<a href="https://ethiomind.vercel.app">
-<img width="90%" src="https://img.shields.io/badge/EXPLORE_ETHIOMIND-LIVE_PLATFORM-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yakobta/EthioMind">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-EthioMind is an educational technology platform designed to make structured, personalized, and accessible learning available to students.
-
-**Core Features**
-
-| Feature | Description |
-|---|---|
-| AI Tutor | Intelligent explanations and learning assistance |
-| Textbook RAG | Textbook-grounded AI responses |
-| Mind Maps | Interactive visual learning |
-| AI Practice | Questions and learning activities |
-| Multilingual AI | Afaan Oromo, Amharic, and English |
-| Digital Library | Educational books and resources |
-
+ 
 **Technology Stack**
 
 `React` · `TypeScript` · `Node.js` · `Supabase` · `Cloudflare` · `Groq` · `Gemini`
@@ -113,22 +83,7 @@ EthioMind is an educational technology platform designed to make structured, per
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:312e81,50:581c87,100:0891b2&height=100&text=YOYA%20AI&fontSize=36&fontColor=ffffff"/>
-
-### AI-POWERED ACCESSIBLE COMMUNICATION
-
-</div>
-
-An accessibility-focused AI concept exploring how technology can make digital communication more inclusive.
-
-**Concept Areas**
-
-- Text-to-speech communication.
-- Multilingual communication.
-- Alternative communication formats.
-- Accessibility-focused AI applications.
-
----
-
+ 
 ## 04 / ENGINEERING INTERESTS
 
 My long-term goal is to become a strong AI engineer with deep knowledge of software and computer systems.
