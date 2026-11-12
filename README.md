@@ -78,7 +78,7 @@ Key areas of development:
 
 Technologies:** React, TypeScript, Node.js, Supabase, and AI APIs.
 
-[![Explore EthioMind](https://img.shields.io/badge/Explore_EthioMind-181717?style=for-the-badge&logo=github)](https://github.com/yakobta/EthioMind)
+[![Explore EthioMind](http://ethiomind.vercel.app)
 
  YOYA AI
 AI-Powered Accessible Communication
