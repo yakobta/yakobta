@@ -11,7 +11,12 @@ Building software, learning new technologies, and solving real-world problems.
 <a href="https://linkedin.com/in/yakobta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://youtube.com/@codewithjack-y9u"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312e81,100:06b6d4&height=150&section=header"/>
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:172554,60:312e81,100:06b6d4&height=220&section=header&text=YAKOB%20TARIKU&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Backend%20Development%20%7C%20AI%20Engineering&descSize=15&descAlignY=58&animation=fadeIn&stroke=06b6d4&strokeWidth=1"
+  />
+</div>
 
 </div>
 
